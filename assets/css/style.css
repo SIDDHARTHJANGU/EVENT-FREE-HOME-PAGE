@@ -560,7 +560,21 @@
   font-weight: 400;
   text-align: center;
 }
-
+.show-clr {
+  color: #fff;
+}
+.rel {
+  position: relative;
+}
+.position-arrow {
+  position: absolute;
+  right: 12px;
+  top: 30%;
+  background-color: #000;
+}
+.pt-11 {
+  padding-top: 11px;
+}
 .blue-box {
   width: 90px;
   height: 62px;
